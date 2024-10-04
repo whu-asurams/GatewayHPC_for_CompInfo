@@ -9,10 +9,11 @@
 
 # Blog post
   
-  I was invited to attend a workshop called Science Gateway 2024, Faculty Hackthon. At the beginning, I have no idea about what is all about. After four days conversations with mentors and experts, I started to figure out what is ACCESS-CI, or Anvil or Globus. Now, I understand it is important for me to use those HPC resources and teach my students how to use them. I already created an ACCESS-CI account. I just figure out what website of ACCESS-CI provides. I am in process of applying for Anvil. After that, I will know where to do, since I already know about Jupiter Notebook, and how to transfer dataset via Globus!
+  I was invited to attend a workshop called Science Gateway 2024, Faculty Hackthon. At the beginning, I have no idea about what is all about. After four days conversations with mentors and experts, I started to figure out what is ACCESS-CI, or Anvil or Globus. Now, I understand it is important for me to use those HPC resources and teach my students how to use them. I already created an ACCESS-CI account. I just figure out what website of ACCESS-CI provides. I am in process of using Anvil. After that, I will know where to do, since I already know about Jupiter Notebook, and how to transfer dataset via Globus!
 
   I will use those resources in my Computational Informatics class in current semester. 
   
+
 
 # Code/Datasets
   
